@@ -1,0 +1,4 @@
+Welcome to my first git repo.
+My tech:
+1) Java
+2) Spring
